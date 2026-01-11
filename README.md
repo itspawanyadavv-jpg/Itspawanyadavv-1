@@ -1,3 +1,3 @@
 Its my first repo
 <br>
-Author - Pawan
+Author - Pawan kumar yadav
